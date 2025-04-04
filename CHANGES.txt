@@ -1,4 +1,10 @@
-﻿teamcity-event-listener 1.0.10 - Apr 4, 2025
+﻿teamcity-event-listener 1.1.0 - Apr 4, 2025
+
+New Features
+
+ * Migration to Version 4 of the NUnit Console Runner and Engine
+
+teamcity-event-listener 1.0.10 - Apr 4, 2025
 
  * Transfer of ownership for teamcity-event-listener from NUnit to JetBrains
 

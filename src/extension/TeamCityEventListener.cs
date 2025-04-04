@@ -28,13 +28,13 @@ namespace NUnit.Engine.Listeners
     using System;
     using System.IO;
     using System.Xml;
-    using Extensibility;
+    using NUnit.Extensibility;
 
     // Note: Setting minimum engine version in this case is
     // purely documentary since engines prior to 3.4 do not
     // check the EngineVersion property and will try to
     // load this extension anyway.
-    [Extension(Enabled = false, EngineVersion = "3.4")]
+    [Extension(Enabled = false, EngineVersion = "4.0")]
     [SuppressMessage("ReSharper", "UseNameofExpression")]
     public class TeamCityEventListener : ITestEventListener
     {
