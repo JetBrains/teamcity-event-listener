@@ -6,7 +6,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>NUnit.Engine.Listeners</RootNamespace>
     <AssemblyName>teamcity-event-listener</AssemblyName>
-    <Version>1.0.8.0</Version>
+    <Version>1.0.10.0</Version>
     <Copyright>Copyright © 2016</Copyright>
     <Description>NUnit Engine extension that helps integration with TeamCity.</Description>
     <TargetFrameworks>net20;netstandard2.0</TargetFrameworks>
